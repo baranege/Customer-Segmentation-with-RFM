@@ -7,3 +7,5 @@
 - **3. Calculating RFM scores**
 - **4. Identification of segments with RFM scores**
 - **5. Interpretation of results and policy recommendations**
+
+### Dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
